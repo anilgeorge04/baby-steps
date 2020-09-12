@@ -1,5 +1,11 @@
 ## Minimal Cave
 
-Welcome to Minimal Cave, the place where [Anil George](https://www.linkedin.com/in/anilgeorge04/) tinkers around with web programming and other projects. I hope you enjoy the applications as much as I enjoyed building them.
+![zen](images/zen-circl2.jpg)
 
-And because you took the time to stop by here, here's what I think of you.
+Welcome to **Minimal Cave**, a place where [Anil George](https://www.linkedin.com/in/anilgeorge04/) posts what projects, frameworks and technologies he is tinkering around with and learning. 
+
+Thanks for stopping by. 
+
+![respect](images/respect.gif)
+
+I hope you enjoy the applications as much as I enjoyed building them.
