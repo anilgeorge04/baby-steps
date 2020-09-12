@@ -1,37 +1,5 @@
-## Welcome to GitHub Pages
+## Minimal Cave
 
-You can use the [editor on GitHub](https://github.com/anilgeorge04/anilgeorge04.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome to Minimal Cave, the place where [Anil George](https://www.linkedin.com/in/anilgeorge04/) tinkers around with web programming and other projects. I hope you enjoy the applications as much as I enjoyed building them.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/anilgeorge04/anilgeorge04.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+And because you took the time to stop by here, here's what I think of you.
