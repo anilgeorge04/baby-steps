@@ -1,9 +1,10 @@
 # Minimal Cave
 
-Welcome to **Minimal Cave**, a place where [Anil George](https://www.linkedin.com/in/anilgeorge04/) posts what projects, frameworks and technologies he is tinkering around with and learning. 
+Welcome to **Minimal Cave**, the place where [Anil George](https://www.linkedin.com/in/anilgeorge04/) posts what he is tinkering around with. 
 
-## Applications
+## Tinker with JavaScript, HTML & CSS
 - [Chill where](https://anilgeorge04.github.io/chill-where)
+- [Simple Genie](https://anilgeorge04.github.io/genie)
 
 ## Suggestions
 
