@@ -4,7 +4,7 @@ Welcome to **Minimal Cave**, the place where [Anil George](https://www.linkedin.
 
 ## Tinker with JavaScript, HTML & CSS
 - [Chill where](https://anilgeorge04.github.io/chill-where)
-- [Simple Genie](https://anilgeorge04.github.io/genie)
+- [Simple Genie](https://anilgeorge04.github.io/cs50harvard)
 
 ## Suggestions
 
