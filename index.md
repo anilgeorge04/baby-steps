@@ -1,4 +1,4 @@
-> Welcome to **Minimal Cave**, the place where [Anil George](https://www.linkedin.com/in/anilgeorge04/) posts what he is tinkering around with. 
+> Welcome to **Minimal Cave**, the place where [Anil](https://www.linkedin.com/in/anilgeorge04/) tinkers around with tech and data. 
 
 ### Tinker with Web
 #### JavaScript, HTML & CSS
@@ -7,7 +7,7 @@
 
 ### Feedback
 <p align='center'>
-For stopping by,<br>
-<img width='250' height='150' src="images/respect.gif" alt="respect">
-<br>Please write in your feedback and suggestions via Github.
+  #### For stopping by,
+  <img width='250' height='150' src="images/respect.gif" alt="respect">
+  <br>Please write in your feedback and suggestions via Github.
 </p>
