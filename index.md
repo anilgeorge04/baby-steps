@@ -6,8 +6,8 @@
 - [Simple Genie](https://anilgeorge04.github.io/cs50harvard)
 
 ### Feedback
-
+<p align='center'>
 For stopping by,
-<p align='center'><img width='250' height='150' src="images/respect.gif" alt="respect"></p>
-
+<img width='250' height='150' src="images/respect.gif" alt="respect">
 Please write in your feedback and suggestions via Github.
+</p>
