@@ -7,7 +7,7 @@
 
 ### Feedback
 <p align='center'>
-  For stopping by,<br><br>
+  Thanks for stopping by,<br><br>
   <img width='250' height='150' src="images/respect.gif" alt="respect">
   <br>Please write in your feedback and suggestions via Github.
 </p>
