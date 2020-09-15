@@ -1,6 +1,6 @@
 <p align='center'>
-<h2> Welcome to the **Minimal Cave!**</h2>
-[Anil](httips://www.linkedin.com/in/anilgeorge04/) tinkers around with tech, data and everything else here.
+<h2> Welcome to the <b>Minimal Cave!</b></h2>
+<a href="https://www.linkedin.com/in/anilgeorge04/">Anil</a> tinkers around with tech, data and everything else here.
 
 ### Vanilla JS
 - [Chill Where](https://anilgeorge04.github.io/chill-where)
