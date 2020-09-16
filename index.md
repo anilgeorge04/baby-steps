@@ -2,7 +2,7 @@
 [Anil](https://www.linkedin.com/in/anilgeorge04/) tinkers around with tech, data and everything else here.
 
 ### Vanilla JS
-- [Chill Where](https://anilgeorge04.github.io/chill-where)
+- [Chill Where](https://anilgeorge04.github.io/chillwhere)
 - [Simple Genie](https://anilgeorge04.github.io/cs50harvard)
 
 Thanks for stopping by,<br><br>
