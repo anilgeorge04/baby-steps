@@ -5,25 +5,33 @@
 <head>
     <!-- Required meta tags -->
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"><!-- <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" rel="stylesheet"> -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <!-- <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+        integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous"> -->
     <link href="styles.css" rel="stylesheet">
     <script src="greet.js"></script>
     <title>🖖 Greeting</title>
 </head>
 
 <body>
-    <ul class="nav"></ul>
-    <h1 style="visibility: hidden;">Greetings earthling</h1>
-    <h1>🖖 Welcome</h1>
-    <div>
-        <form onsubmit="greet(); return false;">
-            <input type="text" id="name" class = "textbox" placeholder="Hi, what is your name?">
-            <button type="submit" class="button-std" onclick="document.getElementById('disp-msg').style.visibility='visible'">Greet me!</button>
-            <button type="reset" class="button-std" onclick="document.getElementById('disp-msg').style.visibility='hidden'">Reset</button>
-        </form>
+    <div id="page-container">
+        <div id="content-wrap">
+            <h1 style="visibility: hidden;">Greetings earthling</h1>
+            <h1>🖖 Welcome</h1>
+            <form onsubmit="greet(); return false;">
+                <input type="text" id="name" class="textbox" placeholder="Hi, what is your name?">
+                <button type="submit" class="button-std"
+                    onclick="document.getElementById('disp-msg').style.visibility='visible'">Greet me!</button>
+                <button type="reset" class="button-std"
+                    onclick="document.getElementById('disp-msg').style.visibility='hidden'">Reset</button>
+            </form>
+            <p id="disp-msg" class="disp-fail" style="visibility: hidden;">Don't be shy. Tell me your name.</p>
+            <p style="font-size: small;">Take me <a href="index.html">home</a> to my other wishes.</p>
+        </div>
+        <footer id="footer">
+            🤍<a href="https://anilgeorge04.github.io">Minimal Cave</a> © 2020
+        </footer>
     </div>
-    <p id="disp-msg" class="disp-fail" style="visibility: hidden;">Don't be shy. Tell me your name.</p>
-    <footer>Take me <a href="index.html">home</a> to my other wishes.</footer>
 </body>
 
 </html>

@@ -1,18 +1,31 @@
 /* Style sheet */
 body {
-    text-align: center;
+    background-color: rgb(240, 240, 240);
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    padding: 20px;
 }
 
-div {
-    padding: 20px;
-    margin: 5px;
+#page-container {
+    position: relative;
+    min-height: 100vh;
+    text-align: center;
 }
 
-footer {
-    font-size: small; 
-    color: slategrey;
+#content-wrap {
+    margin-top: auto;
+    margin-bottom: auto;
+    padding-bottom: 4vh;
+}
+
+#footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 4vh;
+    color: rgb(40, 40, 40);
+}
+
+#guess {
+    font-size: x-large;
 }
 
 .hide-it {
@@ -44,8 +57,4 @@ footer {
 .disp-success {
     font-size: medium;
     color: black;
-}
-
-#guess {
-    font-size: x-large;
 }
