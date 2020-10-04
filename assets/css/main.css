@@ -275,6 +275,12 @@ input, select, textarea {
 			margin: 5rem 0;
 		}
 
+	/* Custom Added */
+	#transparent-border {
+		border-color: transparent;
+	}
+
+	/* Existing massively */
 	.align-left {
 		text-align: left;
 	}
@@ -3555,7 +3561,7 @@ input, select, textarea {
 		}
 
 		#header hr {
-			border-bottom-color: transparent;
+			border-bottom-color: #eeeeee; 
 		}
 
 		#header .logo {
@@ -3767,7 +3773,7 @@ input, select, textarea {
 
 		#main > * {
 			padding: 4rem 4rem 2rem 4rem ;
-			border-top: solid 2px #eeeeee;
+			/* border-top: solid 2px #eeeeee; */
 			margin: 0;
 		}
 
@@ -3781,6 +3787,7 @@ input, select, textarea {
 
 		#main > .post {
 			padding: 8rem 8rem 6rem 8rem ;
+			border-color: #eeeeee;
 		}
 
 			#main > .post header.major > .date {
@@ -3863,7 +3870,7 @@ input, select, textarea {
 			}
 
 			#main > .posts > article {
-				border-color: #eeeeee;
+				border-color: transparent;
 				border-left-width: 2px;
 				border-style: transparent;
 				border-top-width: 2px;
@@ -3924,11 +3931,8 @@ input, select, textarea {
 
 				#main > .posts > article .image {
 					max-width: 25rem;
-					max-height: 20rem;
 					margin-left: auto;
 					margin-right: auto;
-					margin-top: auto;
-					margin-bottom: auto;
 				}
 
 			}
