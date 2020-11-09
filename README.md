@@ -1,3 +1,3 @@
 # Test Repo
 
-To arhcive old website and test projects
+Archive the first steps taken - projects and website.
