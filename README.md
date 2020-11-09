@@ -1,4 +1,3 @@
 # Test Repo
 
-To test new projects, github pages, website
-Move archived submodules
+To arhcive old website and test projects
